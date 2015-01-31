@@ -46,9 +46,9 @@ Shippable, etc.).
 | /src/boot/              | Дополнительные файлы запуска веб-приложения, например `index-test.php`, `index-dev.php` (для репозиториев с приложениями). |
 | /src/migrations/        | Миграции приложения (для репозиториев с приложениями).                                                       |
 | /src/resources/         | Ресурсы, необходимые для работы проекта (например, иконки, используемые в email-рассылке).                   |
-| /bower.json             | Файл конфигурации [Composer](https://getcomposer.org).                                                       |
-| /gulpfile.coffee        | Файл конфигурации [Composer](https://getcomposer.org).                                                       |
-| /package.json           | Файл конфигурации [Codeception](http://codeception.com).                                                     |
+| /bower.json             | Файл конфигурации [Bower](http://bower.io/).                                                                 |
+| /gulpfile.coffee        | Файл конфигурации [Gulp](http://gulpjs.com/).                                                                |
+| /package.json           | Файл конфигурации [NPM](https://www.npmjs.com/)                                                              |
 | /.gitignore             | Файл конфигурации стоп-листа Git.                                                                            |
 | /LICENSE                | Файл лицензии OSS (если приложение / пакет распространяется как OSS).                                        |
 | /README.md              | Файл описания содержимого репозитория.                                                                       |
